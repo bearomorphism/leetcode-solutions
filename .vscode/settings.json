@@ -16,6 +16,10 @@
         "regex": "cpp",
         "valarray": "cpp",
         "functional": "cpp",
-        "__split_buffer": "cpp"
+        "__split_buffer": "cpp",
+        "__hash_table": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "utility": "cpp"
     }
 }
