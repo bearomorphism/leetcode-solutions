@@ -15,6 +15,7 @@
         "span": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "__split_buffer": "cpp"
     }
 }
