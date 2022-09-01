@@ -20,6 +20,7 @@
         "__hash_table": "cpp",
         "bitset": "cpp",
         "iterator": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iosfwd": "cpp"
     }
 }
