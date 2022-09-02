@@ -21,6 +21,7 @@
         "bitset": "cpp",
         "iterator": "cpp",
         "utility": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "__node_handle": "cpp"
     }
 }
