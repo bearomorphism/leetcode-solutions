@@ -22,6 +22,7 @@
         "iterator": "cpp",
         "utility": "cpp",
         "iosfwd": "cpp",
-        "__node_handle": "cpp"
+        "__node_handle": "cpp",
+        "ios": "cpp"
     }
 }
