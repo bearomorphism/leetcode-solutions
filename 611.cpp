@@ -10,7 +10,7 @@ public:
                 k = max(k, j + 1);
                 int tmp = v[i] + v[j];
                 while (k < n && tmp > v[k]) k++;
-                result += k - j;
+                result += k - j - 1;
             }
         }
         return result;
