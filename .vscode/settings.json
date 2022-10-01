@@ -24,6 +24,8 @@
         "iosfwd": "cpp",
         "__node_handle": "cpp",
         "ios": "cpp",
-        "__bit_reference": "cpp"
+        "__bit_reference": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp"
     }
 }
