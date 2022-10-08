@@ -26,6 +26,8 @@
         "ios": "cpp",
         "__bit_reference": "cpp",
         "__locale": "cpp",
-        "__string": "cpp"
+        "__string": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp"
     }
 }
