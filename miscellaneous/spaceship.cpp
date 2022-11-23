@@ -12,10 +12,18 @@ strong_ordering operator<=>(string a, string b) {
     return strong_ordering::greater;
 }
 
+struct S {
+    string st;
+    int a;
+
+    auto operator<=>(const S &rhs) const = default;
+};
+
 int main() {
     // int a = 1, b = 2;
-    string a("123");
-    string b("124");
+    // string a("123");
+    // string b("124");
+    S a{"123", 1}, b{"123", 1};
 
     // auto res = make_tuple(1, 2, 3) <=> make_tuple(1, 2, 4);
     auto res = a <=> b;
